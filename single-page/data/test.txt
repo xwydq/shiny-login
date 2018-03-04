@@ -1,0 +1,70 @@
+"uid" "login_time"
+"1" "xuwy01" 2018-02-24 14:44:02
+"uid" "login_time"
+"1" "xuwy01" 2018-02-24 14:46:31
+"uid" "login_time"
+"1" "xuwy01" 2018-02-24 14:48:29
+"uid" "login_time"
+"1" "xuwy01" 2018-02-24 14:49:08
+"uid" "login_time"
+"1" "xuwy01" 2018-02-24 14:51:39
+"uid" "login_time"
+"1" "xuwy01" 2018-02-24 15:02:31
+"uid" "login_time"
+"1" "shiyq02" 2018-02-24 15:03:16
+"uid" "login_time"
+"1" "xuwy01" 2018-02-24 15:06:12
+"uid" "login_time"
+"1" "shiyq02" 2018-02-24 15:29:40
+"uid" "login_time"
+"1" "yangxq" 2018-02-24 17:36:34
+"uid" "login_time"
+"1" "yeyh01" 2018-02-24 17:36:58
+"uid" "login_time"
+"1" "zhuowk" 2018-02-24 17:37:00
+"uid" "login_time"
+"1" "linhl" 2018-02-24 17:37:03
+"uid" "login_time"
+"1" "wupj" 2018-02-24 17:37:16
+"uid" "login_time"
+"1" "zhengjl02" 2018-02-24 17:37:49
+"uid" "login_time"
+"1" "zhengcl" 2018-02-24 17:38:12
+"uid" "login_time"
+"1" "zhanghx01" 2018-02-24 17:38:20
+"uid" "login_time"
+"1" "chenxx" 2018-02-24 17:38:40
+"uid" "login_time"
+"1" "baoxj" 2018-02-24 17:38:41
+"uid" "login_time"
+"1" "xuyj" 2018-02-24 17:39:00
+"uid" "login_time"
+"1" "luyi" 2018-02-24 17:39:06
+"uid" "login_time"
+"1" "wupj" 2018-02-24 17:39:15
+"uid" "login_time"
+"1" "zhanglm02" 2018-02-24 17:40:30
+"uid" "login_time"
+"1" "wangxin02" 2018-02-24 17:40:44
+"uid" "login_time"
+"1" "xuxw" 2018-02-24 17:43:47
+"uid" "login_time"
+"1" "wangxin02" 2018-02-24 19:14:45
+"uid" "login_time"
+"1" "yaoliu" 2018-02-24 21:19:58
+"uid" "login_time"
+"1" "xuwy01" 2018-02-25 09:34:23
+"uid" "login_time"
+"1" "xuwy01" 2018-03-04 08:50:21
+"uid" "login_time"
+"1" "xuwy01" 2018-03-04 08:59:25
+"uid" "login_time"
+"1" "xuwy01" 2018-03-04 09:00:05
+"uid" "login_time"
+"1" "xuwy01" 2018-03-04 09:02:04
+"uid" "login_time"
+"1" "xuwy01" 2018-03-04 09:03:18
+"uid" "login_time"
+"1" "xuwy01" 2018-03-04 09:03:35
+"uid" "login_time"
+"1" "user" 2018-03-04 09:18:33
