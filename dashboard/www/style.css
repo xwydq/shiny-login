@@ -1,0 +1,90 @@
+.resizable { width: 400px; height: 400px; padding: 0.5em; text-align: center; display: table-cell; vertical-align:top;}
+
+.myimg{width: 100%;  vertical-align: top; margin:0;}
+
+#jump_baseinfo{
+  display:none;
+}
+
+#t06_jump1{
+  display:none;
+}
+
+#tab_hispro_confirm1{
+  display:none;
+}
+
+#tab_rcmder_info_confirm1{
+  display:none;
+}
+#tab_invoice_confirm1{
+  display:none;
+}
+
+#jump_t06popup{
+  display:none;
+}
+
+#t21_jump1{
+  display:none;
+}
+
+#t21_jump2{
+  display:none;
+}
+
+#t21_jump3{
+  display:none;
+}
+
+#t22_jump1{
+  display:none;
+}
+
+#t31_jump1{
+  display:none;
+}
+
+#t31_jump2{
+  display:none;
+}
+
+#t31_jump3{
+  display:none;
+}
+
+#t32_jump1{
+  display:none;
+}
+
+#t41_jump1{
+  display:none;
+}
+
+#t41_jump2{
+  display:none;
+}
+
+#t41_jump3{
+  display:none;
+}
+
+#t42_jump1{
+  display:none;
+}
+
+#t51_jump1{
+  display:none;
+}
+
+#t51_jump2{
+  display:none;
+}
+
+#t51_jump3{
+  display:none;
+}
+
+#t52_jump1{
+  display:none;
+}
